@@ -11,3 +11,11 @@ texture = ExtResource( 2 )
 
 [node name="HPLabel" parent="." index="1"]
 text = "35HP"
+
+[node name="HoverInfo" parent="." index="3"]
+margin_left = -23.0
+margin_top = -10.0
+margin_right = 21.0
+margin_bottom = 11.0
+rect_min_size = Vector2( 30, 20 )
+description = "A basic slime"
